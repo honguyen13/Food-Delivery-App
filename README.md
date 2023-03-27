@@ -13,4 +13,4 @@ It includes the following functions:
 - Cash on Delivery
 - Autocomplete Google Maps
 
-![image](https://user-images.githubusercontent.com/74124060/227833494-1209287c-705a-4445-ba22-70b2f8cdc50f.png)
+![image](https://user-images.githubusercontent.com/74124060/227833655-3088d450-48d6-4cf3-b2b6-f3622e4f7506.png)
