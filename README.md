@@ -15,6 +15,6 @@ It includes the following functions:
 
 ![image](https://user-images.githubusercontent.com/74124060/227833894-0b55f272-2a7e-4686-8559-075448171529.png)
 
-![image](https://user-images.githubusercontent.com/74124060/227833799-78ad5257-ee84-40ec-83aa-5d19977ee47e.png)
+![image](https://user-images.githubusercontent.com/74124060/227833977-7702f97a-fcf6-4bd2-bf31-10705773e4f2.png)
 
-![image](https://user-images.githubusercontent.com/74124060/227833655-3088d450-48d6-4cf3-b2b6-f3622e4f7506.png)
+![image](https://user-images.githubusercontent.com/74124060/227834017-cf219ba7-7de1-4595-8b8b-128f0e208985.png)
